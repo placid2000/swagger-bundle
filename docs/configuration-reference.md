@@ -17,6 +17,4 @@ swagger:
     annotations:
         bundles: []      # Required - list of bundles to search for annotations in
         paths:   []      # List of any paths to include in the search for annotations
-        
-    api_gateway: false   # Set to true to generate a AWS API Gateway schema for your API
 ```
